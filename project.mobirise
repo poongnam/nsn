@@ -50,7 +50,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -63,8 +63,8 @@
             "overlayOpacity": 0.5
           },
           "title": "풍남중학교 컴퓨터 동아리",
-          "text": "가입 문의 : 카카오톡 오픈채팅<br>\"풍남중 컴퓨터 동아리방\"",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://poongnam.github.io\" data-toolbar=\"-mbrBtnMove\">GitHub 페이지</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://pncd.kro.kr/web/info.html\" data-toolbar=\"-mbrBtnMove\">더 알아보기</a>",
+          "text": "<span style=\"font-style: normal;\">재학생 여러분들의 가입을 환영합니다.</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://open.kakao.com/o/gljq085\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">가입 문의</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://poongnam.github.io/web/info.html\" data-toolbar=\"-mbrBtnMove\">더 알아보기</a>",
           "_tags": [
             "Theme"
           ],
@@ -73,10 +73,10 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#2e2e2e",
@@ -90,8 +90,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>주소지</b></span></font><br>전라북도 전주시<br>완산구 거마평로 83<br><br><strong>연락처</strong><br>\nEmail: pncdmail@yandex.com<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>연결고리</b></span></font></p><ul><li>준비중</li><li>준비중</li><li>준비중</li></ul>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>주소지</b></span></font><br>전라북도 전주시<br>완산구 거마평로 83<br><br><strong>연락처</strong><br>이메일 : <a href=\"mailto:ybsstudent@daum.net\">ybsstudent@daum.net</a>",
+          "text2": "<p><b>공지사항</b></p><p>- 차기 부장 선출 시급, 지원자 구함</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -110,7 +110,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#323232",
@@ -118,7 +118,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 풍남중학교 컴퓨터 동아리<br>이 웹 페이지는 웹 개발 팀이 작성하고 mobirise의 프로그램을 이용하였습니다.",
+          "text": "(c) 2018~2019 풍남중학교 컴퓨터 동아리",
           "_tags": [
             "Theme"
           ],
