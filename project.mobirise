@@ -64,7 +64,7 @@
           },
           "title": "풍남중학교 컴퓨터 동아리",
           "text": "<span style=\"font-style: normal;\">재학생 여러분들의 가입을 환영합니다.</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://open.kakao.com/o/sVUAL4hb\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">가입 문의</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://poongnam.github.io/web/info.html\" data-toolbar=\"-mbrBtnMove\">더 알아보기</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://open.kakao.com/o/gfYcW4hb\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">가입 문의</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://poongnam.github.io/web/info.html\" data-toolbar=\"-mbrBtnMove\">더 알아보기</a>",
           "_tags": [
             "Theme"
           ],
